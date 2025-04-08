@@ -21,11 +21,11 @@ The Custom OG Images emitter plugin generates social media preview images for yo
 
 > [!info] Info
 >
-> The `baseUrl` property in your [[configuration]] must be set properly for social images to work correctly, as they require absolute paths.
+> The 'baseUrl' property in your [[configuration]] must be set properly for social images to work correctly, as they require absolute paths.
 
 This plugin accepts the following configuration options:
 
-```typescript title="quartz.config.ts"
+'''typescript title="quartz.config.ts"
 import { CustomOgImages } from "./quartz/plugins/emitters/ogImage"
 
 const config: QuartzConfig = {
@@ -41,17 +41,17 @@ const config: QuartzConfig = {
     ],
   },
 }
-```
+'''
 
 ### Configuration Options
 
 | Option           | Type      | Default      | Description                                                       |
 | ---------------- | --------- | ------------ | ----------------------------------------------------------------- |
-| `colorScheme`    | string    | "lightMode"  | Theme to use for generating images ("darkMode" or "lightMode")    |
-| `width`          | number    | 1200         | Width of the generated image in pixels                            |
-| `height`         | number    | 630          | Height of the generated image in pixels                           |
-| `excludeRoot`    | boolean   | false        | Whether to exclude the root index page from auto-generated images |
-| `imageStructure` | component | defaultImage | Custom component to use for image generation                      |
+| 'colorScheme'    | string    | "lightMode"  | Theme to use for generating images ("darkMode" or "lightMode")    |
+| 'width'          | number    | 1200         | Width of the generated image in pixels                            |
+| 'height'         | number    | 630          | Height of the generated image in pixels                           |
+| 'excludeRoot'    | boolean   | false        | Whether to exclude the root index page from auto-generated images |
+| 'imageStructure' | component | defaultImage | Custom component to use for image generation                      |
 
 ## Frontmatter Properties
 
@@ -59,38 +59,38 @@ The following properties can be used to customize your link previews:
 
 | Property            | Alias            | Summary                             |
 | ------------------- | ---------------- | ----------------------------------- |
-| `socialDescription` | `description`    | Description to be used for preview. |
-| `socialImage`       | `image`, `cover` | Link to preview image.              |
+| 'socialDescription' | 'description'    | Description to be used for preview. |
+| 'socialImage'       | 'image', 'cover' | Link to preview image.              |
 
-The `socialImage` property should contain a link to an image either relative to `quartz/static`, or a full URL. If you have a folder for all your images in `quartz/static/my-images`, an example for `socialImage` could be `"my-images/cover.png"`. Alternatively, you can use a fully qualified URL like `"https://example.com/cover.png"`.
+The 'socialImage' property should contain a link to an image either relative to 'quartz/static', or a full URL. If you have a folder for all your images in 'quartz/static/my-images', an example for 'socialImage' could be '"my-images/cover.png"'. Alternatively, you can use a fully qualified URL like '"https://example.com/cover.png"'.
 
 > [!info] Info
 >
-> The priority for what image will be used for the cover image looks like the following: `frontmatter property > generated image (if enabled) > default image`.
+> The priority for what image will be used for the cover image looks like the following: 'frontmatter property > generated image (if enabled) > default image'.
 >
-> The default image (`quartz/static/og-image.png`) will only be used as a fallback if nothing else is set. If the Custom OG Images emitter plugin is enabled, it will be treated as the new default per page, but can be overwritten by setting the `socialImage` frontmatter property for that page.
+> The default image ('quartz/static/og-image.png') will only be used as a fallback if nothing else is set. If the Custom OG Images emitter plugin is enabled, it will be treated as the new default per page, but can be overwritten by setting the 'socialImage' frontmatter property for that page.
 
 ## Customization
 
-You can fully customize how the images being generated look by passing your own component to `imageStructure`. This component takes JSX + some page metadata/config options and converts it to an image using [satori](https://github.com/vercel/satori). Vercel provides an [online playground](https://og-playground.vercel.app/) that can be used to preview how your JSX looks like as a picture. This is ideal for prototyping your custom design.
+You can fully customize how the images being generated look by passing your own component to 'imageStructure'. This component takes JSX + some page metadata/config options and converts it to an image using [satori](https://github.com/vercel/satori). Vercel provides an [online playground](https://og-playground.vercel.app/) that can be used to preview how your JSX looks like as a picture. This is ideal for prototyping your custom design.
 
 ### Fonts
 
-You will also be passed an array containing a header and a body font (where the first entry is header and the second is body). The fonts matches the ones selected in `theme.typography.header` and `theme.typography.body` from `quartz.config.ts` and will be passed in the format required by [`satori`](https://github.com/vercel/satori). To use them in CSS, use the `.name` property (e.g. `fontFamily: fonts[1].name` to use the "body" font family).
+You will also be passed an array containing a header and a body font (where the first entry is header and the second is body). The fonts matches the ones selected in 'theme.typography.header' and 'theme.typography.body' from 'quartz.config.ts' and will be passed in the format required by ['satori'](https://github.com/vercel/satori). To use them in CSS, use the '.name' property (e.g. 'fontFamily: fonts[1].name' to use the "body" font family).
 
 An example of a component using the header font could look like this:
 
-```tsx title="socialImage.tsx"
+'''tsx title="socialImage.tsx"
 export const myImage: SocialImageOptions["imageStructure"] = (...) => {
   return <p style={{ fontFamily: fonts[0].name }}>Cool Header!</p>
 }
-```
+'''
 
 > [!example]- Local fonts
 >
-> For cases where you use a local fonts under `static` folder, make sure to set the correct `@font-face` in `custom.scss`
+> For cases where you use a local fonts under 'static' folder, make sure to set the correct '@font-face' in 'custom.scss'
 >
-> ```scss title="custom.scss"
+> '''scss title="custom.scss"
 > @font-face {
 >   font-family: "Newsreader";
 >   font-style: normal;
@@ -98,11 +98,11 @@ export const myImage: SocialImageOptions["imageStructure"] = (...) => {
 >   font-display: swap;
 >   src: url("/static/Newsreader.woff2") format("woff2");
 > }
-> ```
+> '''
 >
-> Then in `quartz/util/og.tsx`, you can load the Satori fonts like so:
+> Then in 'quartz/util/og.tsx', you can load the Satori fonts like so:
 >
-> ```tsx title="quartz/util/og.tsx"
+> '''tsx title="quartz/util/og.tsx"
 > import { joinSegments, QUARTZ } from "../path"
 > import fs from "fs"
 > import path from "path"
@@ -133,7 +133,7 @@ export const myImage: SocialImageOptions["imageStructure"] = (...) => {
 >
 >   return fonts
 > }
-> ```
+> '''
 >
 > This font then can be used with your custom structure.
 
@@ -149,7 +149,7 @@ This example will generate images that look as follows:
 | ------------------------------------------ | ----------------------------------------- |
 | ![[custom-social-image-preview-light.png]] | ![[custom-social-image-preview-dark.png]] |
 
-```tsx
+'''tsx
 import { SatoriOptions } from "satori/wasm"
 import { GlobalConfiguration } from "../cfg"
 import { SocialImageOptions, UserOpts } from "./imageHelper"
@@ -230,13 +230,13 @@ export const customImage: SocialImageOptions["imageStructure"] = (
     </div>
   )
 }
-```
+'''
 
 ### Advanced Example
 
 The following example includes a customized social image with a custom background and formatted date:
 
-```typescript title="custom-og.tsx"
+'''typescript title="custom-og.tsx"
 export const og: SocialImageOptions["Component"] = (
   cfg: GlobalConfiguration,
   fileData: QuartzPluginData,
@@ -295,7 +295,7 @@ export const og: SocialImageOptions["Component"] = (
         }}
       >
         <img
-          src={`"https://${cfg.baseUrl}/static/icon.jpeg"`}
+          src={'"https://${cfg.baseUrl}/static/icon.jpeg"'}
           style={{
             position: "relative",
             backgroundClip: "border-box",
@@ -357,4 +357,4 @@ export const og: SocialImageOptions["Component"] = (
     </div>
   )
 }
-```
+'''
