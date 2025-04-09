@@ -29,3 +29,8 @@ docker inspect <container_name> | grep 172
 
 ![[Pasted image 20250409004853.png]]
 - From here, it should recover on it's own, give 5-10 mins
+
+## Confirmation
+- Monitor the cluster upgrade
+- Should proceed on it's own
+- If successful, cluster upgrades will continue on their own
