@@ -3,7 +3,7 @@ title: TestPage2
 draft: false
 ---
 ### Image Test
-![[attachments/Pasted image 20250408195840.png]]
+![[attachments/Pasted image 20250408195840.png|10%]]
 
 # Header 1
 ## Header 2
