@@ -6,7 +6,7 @@ My family dies young, I've know this for years, we always guaranteed to make ret
 
 I know the advice is always "never quit without something lined up", but sometimes you just have to believe in yourself. I got back to it early 2014 and I think I've done some great work since.
 
-So, 2020 rolled round. I normally take a view every 6 months to check in with myself to make sure I'm moving forwards, and actually attempting to reach the goals I set for myself, COVID happened, and I hadn't finished what I wanted to do at FICO, so I stayed there with an amazing team until Feb 2021.
+So, 2020 rolled round. I normally take a view every 6 months to check in with myself to make sure I'm moving forwards, and actually attempting to reach the goals I set for myself, COV[[the-outage]]ID happened, and I hadn't finished what I wanted to do at FICO, so I stayed there with an amazing team until Feb 2021.
 
 
 
