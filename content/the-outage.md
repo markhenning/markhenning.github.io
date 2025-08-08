@@ -1,30 +1,24 @@
 ---
 title: The Outage
-draft: true
+draft: false
 ---
-My family dies young, I've know this for years, we always guaranteed to make retirement age but then the guarantee runs out.so when I started out in my career many years ago, I decided that I'd get some breaks in my work life. So I made myself a deal:
+TLDR - Got clipped by a car, developed full on Agoraphobia and had to re-learn to leave the house and needed to be around for a sick family member.
+
+### Let's Get Started
+
+My family dies young, I've know this for years, we always guaranteed to make retirement age but then the guarantee runs out. So, when I started out in my career many years ago, I decided that I'd get some breaks in my work life, and these are the rules:
 - Every 6 months I look at where I am work and re-assess against my goals
 - Every 7 years, I'd take 6 months off work to enjoy myself and fill in some bucket list things. 
 
-In 2013 I spend months travelling across America, from Boston to LA, it was an amazing experience and taught me a lot, I came back re-focused on my career. I know the advice is always to never quit without something lined up, but sometimes you just have to believe in yourself. I'm good at IT, some days I'm very good at IT. I got back to it early 2014 and I think I've done some great work since.
+In 2013 I spend months travelling across America, from Boston to LA, it was an amazing experience and taught me a lot, I came back re-focused on my career. I know the advice is always to never quit without something lined up, but sometimes you just have to believe in yourself -  I'm good at IT, some days I'm very good at IT. I got back to it early 2014 and I think I've done some great work since.
 
 So, 2020 rolled round, COVID happened, and I hadn't finished what I wanted to do at FICO, so I stayed there with an amazing team until Feb 2021 to make sure I left on a good note and wrap up some things.
-
-### Agoraphobia - Having it and not "Suffering With it"
-
-In short, for me, this translates to my brain has decided that it needs to be afraid of getting stuck somewhere I can't leave, whilst having a panic attack. This causes panic attacks in places that my brain decides there's no easy exit - the middle of bridges, fields etc. It's super dumb.
-
-I don't want to get into what caused it, in all honesty the overriding principle of all of this is that it doesn't matter, I've talked to therapists about it, it building and what made it worse over time, whilst knowing why the problem is there, doesn't really fix the issue in any way.
-The only thing that really matters is:
-
-**Fixing this is a "doing" problem**
-
-
-
 
 ### The Incident Weekend
 
 First month off started great, I did some home/garden tasks I'd been putting off, got back to running and was moving through some training I'd put off, and then the weekend of March 13/14 happened and things went a bit awry.
+
+I get panicky when my brain can't make sense of something odd it sees on the horizon
 
 There's really two main incidents that happened that weekend, one on each day. 
 Saturday, I went out for a walk, 10km loop around the local town as the sun set, it was fine, but I didn't realise how quick the sun was setting and ended up having a panic attack halfway round at the bottom of a large hill. Normally, you just breathe, calm down and move through it, sadly, someone beat me to it...
@@ -66,15 +60,29 @@ After 8 hours of driving, I was completely exhausted but now can prove two thing
 
 https://youtu.be/OHz0BsHAjdI
 
-
 Life lesson here - what's probably boring as hell for some people is a massive, massive, 10 year win for others. 
 
+And I've carried on since then to keep it up, here's a trip to Lakeside:
+
+![[trip.png]]
 ### Flying
 
 So.... I can drive, but can I fly? Well:
-
+![[Flyer.png]]
 Yes
+
 Massive call out to my friend Mapes who came with me -  the man who once described my panicked driving as "brown trousers time" but was kind enough to come with me on my drive to Stanstead, flight and drive home. Some people are just crazy, or really great at supporting their friends.
+
+### The Map
+
+Finally, in case anyone wants to see what 3 and a bit years of traipsing around looks like:
+
+
+![[video.mp4]]
+And why did this streak end? I finally caught COVID....
+
+Total distance is best measured in 3 pairs of shoes, and my monthly walking record is 438km in one month.
+
 ### What Did I Learn?
 
 
@@ -105,6 +113,8 @@ No one goes through this alone, and I think it's important to credit those peopl
 
 - My family, especially those who've come on walks with me multiple times a week
 - The Cisco boys - Ji, Rami and Seb, who've always kept me up to date in tech
-- Mapes - 
+- The Frosthaven Crew - generally putting up with my crap and keeping tabs on me
 - Simon - my old boss who's checked in with me very regularly and given me a glimpse into the real IT world.
+- The Destiny 2 crew - constant weeks of high stress games, learning from and teaching others meant I got a lot of practice with stress regularly ;)
+- The SHED crew - always patient, and truly those people who being around makes you a better person
 - My NHS therapist - absolutely incredibly supportive during the first few weeks and got me up and moving towards the goals.
