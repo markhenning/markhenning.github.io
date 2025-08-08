@@ -10,9 +10,9 @@ In 2013 I spend months travelling across America, from Boston to LA, it was an a
 
 So, 2020 rolled round, COVID happened, and I hadn't finished what I wanted to do at FICO, so I stayed there with an amazing team until Feb 2021 to make sure I left on a good note and wrap up some things.
 
-Agoraphobia - Having it and not "Suffering With it"
+### Agoraphobia - Having it and not "Suffering With it"
 
-Back in 2011, 
+In short, for me, this translates to my brain has decided that it needs to be afraid of getting stuck somewhere I can't leave, whilst having a panic attack. This causes panic attacks in places that my brain decides there's no easy exit - the middle of bridges, fields etc. It's super dumb.
 
 I don't want to get into what caused it, in all honesty the overriding principle of all of this is that it doesn't matter, I've talked to therapists about it, it building and what made it worse over time, whilst knowing why the problem is there, doesn't really fix the issue in any way.
 The only thing that really matters is:
@@ -37,16 +37,17 @@ What followed was not exactly great, I stuck to the safest paths, avoided any up
 
 ### What's it Like?
 
+Basically, my brain's stupid and can't work out the size of massive things/areas, which causes it to decide it's scared of having a panic attack, which causes a panic attack. 
 
+For anyone who's never had one, it's difficult to explain, it's an anxiety disorder, the key part there actually being "disorder", as in "not ordered", and essentially the body and brain go full flight or fight for no good reason, and then decides that there must be something wrong, because it's in fight or flight mode.
 
-
-I've complained enough about hills now that I think I should supply some details of what actually happens.
-
-Basically, my brain's stupid and can't work out the size of massive things/areas and I need to 
-
+If there's any Star Trek fans out there, there's an Original Series episode "Spectre of the Gun". Don't watch it, it's pretty terrible, but in there Kirk and the boys end up in a recreation of the Shootout at the OK Corral against imaginary gunfighters, the only way out is for Spock to mind meld with the crew and convince them that the bullets aren't real, if there's any doubt in their mind at all, their mind makes the bullets real. It's like that, but I don't have a handy Vulcan.
 ### Moving to a Fix - The Ladder
 
 Enough "woe is me", this isn't about what happened, it's about how we move forwards.
+
+The solution here, as best there is exposure, getting out there and doing it, going to places that cause problems and literally doing nothing but experiencing the fun and just letting it fade. There's techniques that help that vary by person, the most common is the classic breathing techniques.
+
 
 ### Capping It Off
 
