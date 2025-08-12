@@ -6,7 +6,7 @@ As I write this, it's turning into an online recipe with a large amount of histo
 
 There's a "What I'd ask me when hiring section" if you want to skip to that, at glance at the pictures as you go. And if you really want, I'll give you a great sausage roll recipe if you ask.
 
-### Let's Get Started
+## Let's Get Started
 
 My family dies young, I've know this for years, we always guaranteed to make retirement age but then the guarantee runs out. So, when I started out in my career many years ago, I decided that I'd get some breaks in my work life, and these are the rules:
 - Every 6 months I look at where I am work and re-assess against my goals
@@ -44,6 +44,7 @@ The absolute best example I've found of this is off Reddit's Be Amazed, the firs
 https://www.reddit.com/r/BeAmazed/comments/1in8a20/the_oppressive_feeling_of_the_pamir_plateau/
 
 One of the best parts is that my brain is far, far less concerned when there's thick cloud cover than when there's clear blue skies. Fewer clouds are more dangerous, so yeah, everyone who's complained that it's raining all day, those are my days when I'm at my best. So if you want to feel better about it, just remember, you're not enjoying the weather, but I'm having an easy day, so thanks for putting up with it.
+
 ### The Incident Weekend
 
 First month off started great, I did some home/garden tasks I'd been putting off, got back to running and was moving through some training I'd put off, and then the weekend of March 13/14 happened and things went a bit awry.
@@ -59,7 +60,7 @@ What followed was not exactly great, I stuck to the safest paths, avoided any up
 
 Where did that leave me? Really there were two main symptoms but both were part of the same thing:
 1) My body essentially forgot what "normal" was
-2) Everywhere outside now triggered the though process that leads to a panic attack.
+2) Everywhere outside now triggered the though process that leads to a panic attack - full blown Agoraphobia. Everywhere I go, my brain worries about a panic attack, which causes one.
 
 **The Body Part**
 
@@ -71,10 +72,23 @@ It took six months before I could drink coffee without having serious heart palp
 
 **Everywhere Outside**
 
-So, I went from bridges and odd places to "everywhere" in terms of stupid thoughts, anything that I caught a glimpse out of the corner of my eye set it off, lamp posts, large solo buildings on the horizon and any place I wasn't 100% on, which at the start was everywhere.
+So, I went from bridges and odd places to "everywhere" in terms of stupid thoughts, anything that I caught a glimpse out of the corner of my eye set it off, lamp posts, large solo buildings on the horizon and any place I wasn't 100% on, which at the start was everywhere. Full blown agoraphobia.
+
+### Agoraphobia - "Having it" and not "Suffering With it"
+
+I want to take a little time to call this out and define it. For me, it's essentially a fear of getting stuck somewhere where I'm going to have a panic attack, which causes a panic attack.
+
+This is an anxiety disorder. And I want to call out the word "disorder" there, as in "not normally ordered"  as the anxiety reaction isn't normal, I'm worried about having a panic attack, which causes full on heart rate, sweating, loss of feeling in my legs etc, that's not a normal reaction. I still get anxious about other things, but it's a normal amount, my dad gets sick? I worry about that, my bank balance after four years off? I worry about that, but that stuff's perfectly normal.
+
+Before I go further, I want to be incredibly, incredibly clear, anyone suffering from anxiety etc, I've got infinite time for you, and I'll always listen and support, I know what it's like. I know how bad it can get. You know what works for you, but I have to say that FOR ME - the term "suffering with anxiety" was a mindset that I personally found I had to get out of. I've got it, I deal with it, it took a boatload of work.
+
+There is no intention here to ever downplay someone else's situation, if there any doubt about that fact, then it's my words letting me down here, please assume you'll have the support you need from me, always.
+
 ### Moving to a Fix - The Ladder
 
 Enough "woe is me", this isn't about what happened, it's about how we move forwards. I remember day 5, standing 30 feet from my house, unable to move forwards. At that point, I had to make a choice, work through this, or sell up the house right now and just accept that I'll never go anywhere ever again.
+
+There's an old Star Trek the Original Series episode "Spectre of the Gun". Don't watch it, it's terrible, but in there, Kirk and the boys get transported to a fictional "Gunfight at the OK Corral". The plot hinges on the fact that if they know 100% that the bullets aren't real and can't hurt them they'll just pass through them, but if there's any doubt whatsoever, they're lethal. Luckily, Spock's on hand to mind meld and train them that the bullets aren't real. I don't have a handy Vulcan, so we're going to have to do this the hard, long way.
 
 The solution here, as best there is, is exposure, getting out there and doing it, going to places that cause problems and literally doing nothing but experiencing the fun and just letting it fade. There's techniques that help that vary by person, the most common is the classic breathing techniques, learning to relax on cue etc.
 
