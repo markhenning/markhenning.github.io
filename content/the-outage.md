@@ -16,27 +16,35 @@ So, 2020 rolled round, COVID happened, and I hadn't finished what I wanted to do
 
 ## Wide Open Spaces - The Short Version
 
-Ever since I was little, my brains never quite worked out scale on things far away. I never really bothered me, as a kid you just write it off. I remember standing on Southend Pier about 8 years old looking up at a lamp post and being very confused about how far away the sky was. Suddenly my brain goes from "I'm here with this lamp post" to "I'm standing in a huge dome, miles and miles across", and it just feels wierd.
+Ever since I was little, my brains never quite worked out scale on things far away. It never really bothered me, as a kid you just write it off. I remember standing on Southend Pier about 8 years old looking up at a lamp post and being very confused about how far away the sky was. Suddenly my brain goes from "I'm here with this lamp post" to "I'm standing in a huge dome, miles and miles across", and it just feels wierd.
 
-<< insert picture, lamp post scale >>
+![[20250330_143622867_iOS.png]]
+*How far away is the sky, and are they telegraph lines or bridges 50 miles into the sky?* 
 
 Whatever, no big deal, until I got stuck on the QE2 bridge in Dartford, right under one of the suspension towers, looking up at it, and all of a sudden I'm feeling the world grow massive, stuck there, and having my first panic attack.
 
-<< QE2 Bridge picture>>
+For those who've never seen it:
 
-Since the, any bridge sets if off, and it starts spreading, bridges, motorways etc. The main thing that triggers it are getting stuck somewhere or being mentally idle, and the brain starts to wander, it's very difficult to pull it back without practice, but there's two main things here - it's possible, it's just practise, and "it doesn't really matter"
+![[512px-Queen_Elizabeth_II_Bridge.jpeg]]
+* [Caledoniani, CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) via Wikimedia Commons*
 
-The problem is you're pulse is up, the brain's firing away about it being in danger, but it doesn't quite know why. So it makes things up, and boy does it have an imagination. My favourite one is that my brain decides that I need to be near something to grab onto, because gravity is going to stop working, and I'm going to fall into the sky. Then with all the adrenaline it's dumping, your vision starts to flatten, so you're body's moving forward, but the horizon's not looking like it's coming closer, so if you're moving and it's not getting fixed, your brain just panics more.
+Since then any bridge sets if off, and it starts spreading, bridges, motorways etc. The main thing that triggers it are getting stuck somewhere or being mentally idle, and the brain starts to wander, it's very difficult to pull it back without practice, but there's two main things here - it's possible, it's just practise, and "it doesn't really matter"
+
+The problem is you're pulse is up, the brain's firing away about it being in danger, but it doesn't quite know why. So it makes things up, and boy does it have an imagination. My favourite one is that my brain decides that I need to be near something to grab onto, because gravity is going to stop working, and I'm going to fall into the sky. Which mean my brain goes through this in about the space of 2 seconds:
+
+![[Screenshot_20250812_014559.png]]
+*Contrary to popular belief, I am aware that gravity has never failed me*
+
+Then with all the adrenaline it's dumping, your vision starts to flatten, so you're body's moving forward, but the horizon's not looking like it's coming closer, so if you're moving and it's not getting fixed, your brain just panics more.
 
 The absolute best example I've found of this is off Reddit's Be Amazed, the first 5 seconds or so of this video, before the sky comes into view.
 
 https://www.reddit.com/r/BeAmazed/comments/1in8a20/the_oppressive_feeling_of_the_pamir_plateau/
 
-My favourite part is that my brain is far, far less concerned when there's thick cloud cover than when there's clear blue skies. Fewer clouds are more dangerous, so yeah, everyone who's complained that it's raining all day, those are my days when I'm at my best. So if you want to feel better about it, just remember, you're not enjoying the weather, but I'm having an easy day, so thanks for putting up with it.
+One of the best parts is that my brain is far, far less concerned when there's thick cloud cover than when there's clear blue skies. Fewer clouds are more dangerous, so yeah, everyone who's complained that it's raining all day, those are my days when I'm at my best. So if you want to feel better about it, just remember, you're not enjoying the weather, but I'm having an easy day, so thanks for putting up with it.
 ### The Incident Weekend
 
 First month off started great, I did some home/garden tasks I'd been putting off, got back to running and was moving through some training I'd put off, and then the weekend of March 13/14 happened and things went a bit awry.
-
 
 There's really two main incidents that happened that weekend, one on each day. 
 Saturday, I went out for a walk, 10km loop around the local town as the sun set, it was fine, but I didn't realise how quick the sun was setting and ended up having a panic attack halfway round at the bottom of a large hill. Normally, you just breathe, calm down and move through it, sadly, someone beat me to it...
@@ -55,23 +63,18 @@ Where did that leave me? Really there were two main symptoms but both were part 
 
 It sounds strange to write, but it's true. Do you have an odd twitch sometimes? An odd pain? Do you feel your heartrate shoot up whenever you drink coffee? Sometimes you do, sometimes you don't, but most of the time, even if you do feel it, it's just a short twinge and you're done. 
 
-For the first six months, 
-The best description I've ever hear of this is that it's like an onion (hello to the Shrek fans). The anxiety is there, but over time of normality, the layers shed, you won't notice them go until something happens and you realise you're not having the same reaction over time, you just have to re-experience everything and re-teach your body that this is actually fine and normal.
+For the first six months, my body decided every twitch/twinge etc was a new problem and started on it's fun plan. The best description I've ever hear of this is that it's like an onion (hello to the Shrek fans). The anxiety is there, but over time of normality, the layers shed, you won't notice them go until something happens and you realise you're not having the same reaction over time, you just have to re-experience everything and re-teach your body that this is actually fine and normal.
 
-It took 6 months before I could drink coffee without having serious heart palpatations, but now, doesn't fuss me at all. The onion layers fall off, and by the end of it, everything's fine.
+It took six months before I could drink coffee without having serious heart palpatations, but now, it doesn't fuss me at all. The onion layers fall off, and by the end of it, everything's fine.
 
-### What's it Like?
+**Everywhere Outside**
 
-Basically, my brain's stupid and can't work out the size of massive things/areas, which causes it to decide it's scared of having a panic attack, which causes a panic attack. 
-
-For anyone who's never had one, it's difficult to explain, it's an anxiety disorder, the key part there actually being "disorder", as in "not ordered", and essentially the body and brain go full flight or fight for no good reason, and then decides that there must be something wrong, because it's in fight or flight mode.
-
-If there's any Star Trek fans out there, there's an Original Series episode "Spectre of the Gun". Don't watch it, it's pretty terrible, but in there Kirk and the boys end up in a recreation of the Shootout at the OK Corral against imaginary gunfighters, the only way out is for Spock to mind meld with the crew and convince them that the bullets aren't real, if there's any doubt in their mind at all, their mind makes the bullets real. It's like that, but I don't have a handy Vulcan.
+So, I went from bridges and odd places to "everywhere" in terms of stupid thoughts, anything that I caught a glimpse out of the corner of my eye set it off, lamp posts, large solo buildings on the horizon and any place I wasn't 100% on, which at the start was everywhere.
 ### Moving to a Fix - The Ladder
 
 Enough "woe is me", this isn't about what happened, it's about how we move forwards. I remember day 5, standing 30 feet from my house, unable to move forwards. At that point, I had to make a choice, work through this, or sell up the house right now and just accept that I'll never go anywhere ever again.
 
-The solution here, as best there is, is exposure, getting out there and doing it, going to places that cause problems and literally doing nothing but experiencing the fun and just letting it fade. There's techniques that help that vary by person, the most common is the classic breathing techniques, learning to relax on queue etc.
+The solution here, as best there is, is exposure, getting out there and doing it, going to places that cause problems and literally doing nothing but experiencing the fun and just letting it fade. There's techniques that help that vary by person, the most common is the classic breathing techniques, learning to relax on cue etc.
 
 You can't eat the apple whole, as the saying goes. In fact, everything you'll read about this pretty much tells you the same thing, spending 2 hours white knuckling through it the whole time doesn't really teach your body anything. If anything it doesn't remember you survived it, it remembers that it never wants to do that again. Remember a sane person would just know it's all fine and safe to begin with, we're training the lizard brain here, repetition is the key, and man does some of it take a lot of repetition.
 
@@ -79,13 +82,15 @@ I want to be clear, if anyone's reading this with anything like the same problem
 
 This is where the ladder steps in, super simple stuff. Work out a list of escalating challenges for yourself, and set off to do them, again, and again, and again. At the start the simple things seem impossible (my first one was 15 minutes walking around a specific route in my neighbourhood, the 10th on my first ladder was "drive to the cinema during the day")
 
-And then you start, and the wins feel stupid, you go out. 
+And then you start, and the wins feel stupid, but, you go out, and you come home and log it, win or lose, pass or fail.
 
-The worst part of all of this is that the beginning is the hardest part, your questions are rampant,  you haven't had time to practice coping with it, you'll screw up, you're not sure if you're doing it right, how long should I stay in a place experiencing this? My favourite is the thought "hey, I'm getting this", which instantly triggers "but what if I'm not"
+Then, when you complete a ladder, you reward yourself, and then sit down to craft another ladder.
 
-#### '' Relapses''
+The worst part of all of this is that the beginning is the hardest part, your questions are rampant,  you haven't had time to practice coping with it, you'll screw up, you're not sure if you're doing it right, how long should I stay in a place experiencing this? My favourite is the thought "hey, I'm getting this", which instantly triggers "but what if I'm not?"
 
-One of the big things to remember here is that progress isn't linear, you'll have good and bad days, what's easy one day is super hard the next (especially as the weather's changing on me every day.) Again, just gotta get back on the horse, take a couple of days of smaller things, then move back to that challenge. 
+#### ''Relapses''
+
+One of the big things to remember here is that progress isn't linear, you'll have good and bad days, what's easy one day is super hard the next (especially as the weather's changing on me every day.) Again, just gotta get back on the horse, take a couple of days of smaller things, then move back to that challenge. Up or down, but always forward.
 
 I've always liked to set a marker for anything that some people would cause a relapse, but I prefer to just tag them as "Incidents" and tag them with what I was listening to at the time on my headphones at the time.
  - The Techpod Incident - the main incident with the car and it all starting
@@ -141,10 +146,14 @@ Total distance is best measured in 3 pairs of shoes, and my monthly walking reco
 
 I've interviewed plenty of people before, I know there's always a question around things like this, and from what I've said above my main concern would be that I'd see me as a risk. Sometimes you're not allowed to ask a question, and I understand why but frankly, I'm quite proud of what I've done, I've worked hard on this, every single day I've been out and about, sometimes up, sometimes down, but always forward, no matter what.
 
+**Why Now?**
+I'm where I need to be and have been for a while, family problems are all stable, so that part's good.
+
+But, let's be honest, I've been out for a while, and as I've said I think that I'll be regarded as a risk, I needed to be 100% sure that I'm ready to go before even starting. A failure in a job after a month here on my part is going to have a hell of a knock on if I need to get another, in fact, I'll make a major dent in my career prospects. That, and four years out when you normally get imposter syndrome badly puts a hell of a mountain to climb, but I'm happy with where all my projects are, and the only real thing holding me back now is that it can sometimes take me a little longer to dust off the cobwebs from a command at the back of my head.
+
 **Do you think this could happen again?**
 Never say never, but there's three main things here that I'd say:
 1. This is mainly an "idle problem" - it happens most when I'm not doing anything other than walking/driving
-This is where the ladder steps in, super simple stuff. 
 2. You never forget how to ride a bike, I've spend years training now, even if I did have a "relapse" I know what to do, what the answer is, I've practised and drilled for this. I know I can deal with it, as I've said above it's not about "what do I do, can I get better?", it's "this doesn't matter, I'll be fine."
 3. If you're afraid of rollercoasters, are you scared when you're not on them? If you've had to ride one every day for 4 years, would you still be as scared, or do you think you'd be pretty bored of them by now? Yeah once in a while when I'm somewhere new and open, it's a problem I can deal with, it's not going to happen in cities or offices. I don't like standing the fields and I'll generally still avoid them if possible, but I can do them.
 
@@ -163,7 +172,8 @@ No one goes through this alone, and I think it's important to credit those peopl
 - My family, especially those who've come on walks with me multiple times a week
 - The Cisco boys - Ji, Rami and Seb, who've always kept me up to date in tech
 - The Frosthaven Crew - generally putting up with my crap and keeping tabs on me
+- Lucy - Endless support and always limitlessly caring, with understanding in a time that I didn't understand what was going on.
 - Simon - my old boss who's checked in with me very regularly and given me a glimpse into the real IT world.
-- The Destiny 2 crew - constant weeks of high stress games, learning from and teaching others meant I got a lot of practice with stress regularly ;)
+- The Destiny 2 crew - constant weeks of high stress games, learning from and teaching others meant I got a lot of practice with stress regularly and kept social with a great bunch of people ;)
 - The SHED crew - always patient, and truly those people who being around makes you a better person
 - My NHS therapist - absolutely incredibly supportive during the first few weeks and got me up and moving towards the goals.
