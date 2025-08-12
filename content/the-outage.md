@@ -4,6 +4,8 @@ draft: false
 ---
 As I write this, it's turning into an online recipe with a large amount of history, TLDR - Got clipped by a car, developed full on Agoraphobia and had to re-learn to leave the house and needed to be around for a sick family member.
 
+There's a "What I'd ask me when hiring section" if you want to skip to that, at glance at the pictures as you go. And if you really want, I'll give you a great sausage roll recipe if you ask.
+
 ### Let's Get Started
 
 My family dies young, I've know this for years, we always guaranteed to make retirement age but then the guarantee runs out. So, when I started out in my career many years ago, I decided that I'd get some breaks in my work life, and these are the rules:
