@@ -51,7 +51,7 @@ You can set up a cron job to refresh downloaded lists like this on any cron sche
 
 Let's start with an overall plan for what we need to do:
 
-![[DNS-Full-Flow.png]]
+![[DNS-corrected.png]]
 
 (We're only going to go "one deep" on the website crawl, because it'll mostly cover most domains and I really don't want to crawl entire sites)
 
