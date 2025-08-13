@@ -4,7 +4,7 @@ draft: false
 ---
 As I write this, it's turning into an online recipe with a large amount of history, TLDR - Got clipped by a car, developed full on Agoraphobia and had to re-learn to leave the house and needed to be around for a sick family member.
 
-There's a "What I'd ask me when hiring section" if you want to skip to that, at glance at the pictures as you go. And if you really want, I'll give you a great sausage roll recipe if you ask.
+There's a "What I'd ask me when hiring section" if you want to skip to that, have a glance at the pictures as you go. And if you really want, I'll give you a great sausage roll recipe if you ask.
 
 ## Let's Get Started
 
@@ -12,13 +12,13 @@ My family dies young, I've know this for years, we always guaranteed to make ret
 - Every 6 months I look at where I am work and re-assess against my goals
 - Every 7 years, I'd take 6 months off work to enjoy myself and fill in some bucket list things. 
 
-In 2013 I spend months travelling across America, from Boston to LA, it was an amazing experience and taught me a lot, I came back re-focused on my career. I know the advice is always to never quit without something lined up, but sometimes you just have to believe in yourself -  I'm good at IT, some days I'm very good at IT. I got back to it early 2014 and I think I've done some great work since.
+In 2013 I spend months travelling across America, from Boston to LA, it was an amazing experience and taught me a lot. I came back re-focused on my career. I know the advice is always to never quit without something lined up, but sometimes you just have to believe in yourself -  I'm good at IT, some days I'm very good at IT. I got back to it early 2014 and I think I've done some great work since.
 
 So, 2020 rolled round, COVID happened, and I hadn't finished what I wanted to do at FICO, so I stayed there with an amazing team until Feb 2021 to make sure I left on a good note and wrap up some things.
 
 ## Wide Open Spaces - The Short Version
 
-Ever since I was little, my brains never quite worked out scale on things far away. It never really bothered me, as a kid you just write it off. I remember standing on Southend Pier about 8 years old looking up at a lamp post and being very confused about how far away the sky was. Suddenly my brain goes from "I'm here with this lamp post" to "I'm standing in a huge dome, miles and miles across", and it just feels wierd.
+Ever since I was little, my brain's never quite worked out scale on things far away. It never really bothered me, as a kid you just write it off. I remember standing on Southend Pier about 8 years old looking up at a lamp post and being very confused about how far away the sky was. Suddenly my brain goes from "I'm here with this lamp post" to "I'm standing in a huge dome, miles and miles across", and it just feels wierd.
 
 ![[20250330_143622867_iOS.png]]
 *How far away is the sky, and are they telegraph lines or bridges 50 miles into the sky?* 
@@ -30,7 +30,7 @@ For those who've never seen it:
 ![[512px-Queen_Elizabeth_II_Bridge.jpeg]]
 * [Caledoniani, CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) via Wikimedia Commons*
 
-Since then any bridge sets if off, and it starts spreading, bridges, motorways etc. The main thing that triggers it are getting stuck somewhere or being mentally idle, and the brain starts to wander, it's very difficult to pull it back without practice, but there's two main things here - it's possible, it's just practise, and "it doesn't really matter"
+Since then any bridge sets if off, and it starts spreading, bridges, motorways etc. The main thing that triggers it are getting stuck somewhere or being mentally idle, and the brain starts to wander, it's very difficult to pull it back without practice, but there's three main things here - it's possible, it's just practise, and "it doesn't really matter"
 
 The problem is you're pulse is up, the brain's firing away about it being in danger, but it doesn't quite know why. So it makes things up, and boy does it have an imagination. My favourite one is that my brain decides that I need to be near something to grab onto, because gravity is going to stop working, and I'm going to fall into the sky. Which mean my brain goes through this in about the space of 2 seconds:
 
@@ -60,7 +60,7 @@ What followed was not exactly great, I stuck to the safest paths, avoided any up
 
 Where did that leave me? Really there were two main symptoms but both were part of the same thing:
 1) My body essentially forgot what "normal" was
-2) Everywhere outside now triggered the though process that leads to a panic attack - full blown Agoraphobia. Everywhere I go, my brain worries about a panic attack, which causes one.
+2) Everywhere outside now triggered the thought process that leads to a panic attack - full blown Agoraphobia. Everywhere I go, my brain worries about a panic attack, which causes one.
 
 **The Body Part**
 
@@ -78,7 +78,7 @@ So, I went from bridges and odd places to "everywhere" in terms of stupid though
 
 I want to take a little time to call this out and define it. For me, it's essentially a fear of getting stuck somewhere where I'm going to have a panic attack, which causes a panic attack.
 
-This is an anxiety disorder. And I want to call out the word "disorder" there, as in "not normally ordered"  as the anxiety reaction isn't normal, I'm worried about having a panic attack, which causes full on heart rate, sweating, loss of feeling in my legs etc, that's not a normal reaction. I still get anxious about other things, but it's a normal amount, my dad gets sick? I worry about that, my bank balance after four years off? I worry about that, but that stuff's perfectly normal.
+This is an anxiety disorder. And I want to call out the word "disorder" there, as in "not normally ordered"  as the anxiety reaction isn't normal, I'm worried about having a panic attack, which causes full on heart rate, sweating, loss of feeling in my legs etc, that's not a normal reaction. I still get anxious about other things, but it's a normal amount, my dad gets sick? I worry about that. My bank balance after four years off? I worry about that, but that stuff's perfectly normal.
 
 Before I go further, I want to be incredibly, incredibly clear, anyone suffering from anxiety etc, I've got infinite time for you, and I'll always listen and support, I know what it's like. I know how bad it can get. You know what works for you, but I have to say that FOR ME - the term "suffering with anxiety" was a mindset that I personally found I had to get out of. I've got it, I deal with it, it took a boatload of work.
 
@@ -140,7 +140,7 @@ So.... I can drive, but can I fly? Well:
 ![[Flyer.png]]
 Yes
 
-Massive call out to my friend Mapes who came with me -  the man who once described my panicked driving as "brown trousers time" but was kind enough to come with me on my drive to Stanstead, flight and drive home. Some people are just crazy, or really great at supporting their friends.
+Massive call out to my friend Mapes who came with me -  the man who once described my panicked driving as "brown trousers time" but was kind enough to come with me on my drive to Stansted, flight and drive home. Some people are just crazy, or really great at supporting their friends.
 
 ### The Map
 
@@ -156,7 +156,7 @@ Total distance is best measured in 3 pairs of shoes, and my monthly walking reco
 
 
 - Sometimes you've just gotta be kind to yourself - this was a hell of a hole and it took a huge amount of work, but like learning anything it takes time
-- There's a lot of things I used to do that were actually symptoms of this - I know the overplayed response to "whats your biggest weakness?" is perfectionism, but looking back at this, perfectionism in myself was a real problem, well planned changes avoid outages, over predicting issues smoothed deployments etc, outages cause stress. One of the biggest compliments I ever got was when I screwed up an environment we were deploying and the client said "but Mark doesn't make mistakes" (And I want to be clear, I had high standards for those who worked for me, but I never expected perfection there, they all were great.)
+- There's a lot of things I used to do that were actually symptoms of this - I know the overplayed response to "what's your biggest weakness?" is perfectionism, but looking back at this, perfectionism in myself was a real problem, well planned changes avoid outages, over predicting issues smoothed deployments etc, outages cause stress. One of the biggest compliments I ever got was when I screwed up an environment we were deploying and the client said "but Mark doesn't make mistakes" (And I want to be clear, I had high standards for those who worked for me, but I never expected perfection there, they all were great.)
 - You can have all the time in the world, I'll still never finish the garden - if anyone's got a recommendation of a good gardener, I'd appreciate it!!
 ### Questions I'd ask Me when Hiring
 
