@@ -9,15 +9,12 @@ MQTT works using a defined set of "Topics" that hold messages passing between se
 
 ![[Pasted image 20250813071615.png]]
 
-## **Configuring the Exports**
-
-HA has some great docs for this, but they're a little large for simple use. The easiest integration to get the data out is "MQTT Statestream". This is installed, but not enabled if you install the MQTT Integration, but enabling and configuring is very straightforward.
-
 ## Choosing Data to Export
 
 Before looking at the config, the best option is to work out what to export. Typically for Home Assistant, this will be a set of sensors, for this example, this will be the power data for a house, and some other smaller pieces of data.
+## **Configuring the Exports**
 
-Most Home Assistant configuration by a user for any task will need an explanation of Entities. These essentially are UIDs for everything in the system, with a breakdown of how to find them
+HA has some great docs for this, but they're a little large for simple use. The easiest integration to get the data out is "MQTT Statestream". This is installed, but not enabled if you install the MQTT Integration, but enabling and configuring is very straightforward.
 
 [MQTT Statestream](https://www.home-assistant.io/integrations/mqtt_statestream/ "MQTT Statestream")
 
