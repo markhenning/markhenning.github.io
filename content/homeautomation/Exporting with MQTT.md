@@ -1,6 +1,6 @@
 ---
 title: Exporting with MQTT
-draft: true
+draft: false
 ---
 
 MQTT serves as a simple, useful message queue for passing data between devices for various reasons. It's the core part of a lot of Home Assistant tech, allowing easy connectivity to services such as Frigate NVR, ESPresence.
