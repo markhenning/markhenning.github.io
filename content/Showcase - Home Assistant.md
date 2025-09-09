@@ -1,5 +1,5 @@
 ---
-title: Home Assistant
+title: Showcase - Home Assistant
 draft: false
 ---
 # Home Assistant
@@ -32,7 +32,6 @@ For example:
 I run a pretty standard install across the board but as the saying goes "Data is Beautiful" and I can now use various bits of data for other things, including my favourite pet project - "ha-mqtt-display", some python I wrote which shows power usage, current internet usage and DNS  stats for my house, on an LED matrix.
 
 This video is a placeholder, it's greatly improved since:
-
 ![[G-Unicorn.mp4]]
 
 The code is all available here: 

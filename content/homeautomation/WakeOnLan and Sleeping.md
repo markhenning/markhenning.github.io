@@ -38,6 +38,7 @@ ssh-keygen -f /config/ssh_keys/ha_id -t ecdsa -b 512
 Mine look like this (names are different on the files)
 
 ![[Pasted image 20250714221755.png]]
+
 You'll need a copy of the .pub file so we can put it on the target server
 
 **Target Server User Setup**
@@ -65,12 +66,14 @@ As with everything like this, it's best to make a dedicated config files -  "wak
 (Note: a dedicated directory for shell commands isn't normally what you'd see in HA, but here, you can end up with lots of individual files, so separating them out here is good)
 
 configuration.yaml
+
 `switch: !include wake-on-lan.yaml`
 `shell_command: !include shell_commands/shell_commands.yaml`
 
 Then we can write definitions for each server we want to control in the wake on lan file:
 
 wake-on-lan.yaml
+
 `- platform: wake_on_lan`
     `mac: "d8-cb-8a-22-6f-40"`
     `host: 192.168.8.150`
@@ -83,6 +86,7 @@ Here, we can see the normally expected MAC address and name for the server along
 * "turn_off" - this gives a command to allow Home Assistant to turn off/sleep the server. Note I've got individual ones for each sever
 
 shell_commands/shell_commands.yaml
+
 `turn_off_server_vc01: "ssh -i /config/ssh_keys/ha_id -o 'StrictHostKeyChecking=no' homeassistant@<<hostname>> sudo systemctl suspend"`
 
 Repeat this line for each server, changing the hostname in the alias (the part before the ":") and where needed in the command:
