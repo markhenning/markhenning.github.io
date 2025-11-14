@@ -48,3 +48,7 @@ First, "mqtt_statestream.yaml" doesn't exist by default, so it needs to be creat
 Next, add in the topic to export to, and the entities we're looking to export. For this usage, I want to export all of my power sensors, my electricity provider current usage and a couple of counters I keep for DNS:
 
 ![[Pasted image 20250813071736.png]]
+
+That's it!
+
+Config check and restart Home Assistant, and data should start appearing in MQTT
