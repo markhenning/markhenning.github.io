@@ -10,12 +10,13 @@ This page shows the key variables, text strings etc and where to find them.
 
 Micropython NTP doesn't really do timezones and daylight savings without a massive amount of extra work.
 
-Therefore you might find the following variable useful to change:
+During operation, you can hold the A button on the rear of the  display to advance the clock by an hour for every second.
+
+Also, for a more permanent fix, in the clock module, the following variable useful to change:
 
 | File          | Variable      |
 | ------------- | ------------- |
 | display_clock | hr_offset = 1 |
-During operation, you can also hold the A button on the display to advance the clock by an hour for every second you hold the button.
 
 ## MQTT Topics and Strings
 
@@ -36,7 +37,7 @@ These are lists of strings, if any of the words appear in the message topic, the
 | topic_dns     | 'tdns'            | Triggers handle_dns(),     |
 ### 2. Individual Handler Strings
 
-Sometimes, the topic/data will trigger a handler, but we still need to use more information to classify it further.
+These are used inside each handler to further classify data and use it appropriately. 
 
 E.g "router_current_upload" will trigger handle_network(), the "upload" will be used to mark it as the upload data.
 

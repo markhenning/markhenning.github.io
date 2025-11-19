@@ -5,7 +5,7 @@ draft: true
 
 The code for this with asyncs and callbacks can look a lot scarier than it is.
 
-Before you start, make sure you've got some [Exporting Data to Use](<Exporting with MQTT>)
+Before you start, make sure you've got some [Exporting Data to Use](<Exporting with MQTT.md>)
 
 ## Technical Overview
 ## Overview of the Process
