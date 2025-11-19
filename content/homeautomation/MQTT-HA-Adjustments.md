@@ -15,45 +15,39 @@ Therefore you might find the following variable useful to change:
 | File          | Variable      |
 | ------------- | ------------- |
 | display_clock | hr_offset = 1 |
-I fully intend to use one of the buttons on the display to adjust the hour +/- 1 when I get the time.
+During operation, you can also hold the A button on the display to advance the clock by an hour for every second you hold the button.
 
 ## MQTT Topics and Strings
 
 
-This is going to be the fiddly part, depending on how HA writes them out/what your topic/messages are, but it should solve some headaches. I've tried to keep this to a minimum, hopefully you should just need to update the strings as you go.
+This is going to be the fiddly part, depending on how HA writes them out/what your topic/messages are, it's likely that indivdual setups will have different topic names for each value
 
-### Message Topic Strings
+In order to watch for these, you can easily adjust the strings to watch for for various purposes
 
-In main.py, the "callback" function has if statements to spot these strings and hand the data off to the relevant function:
+These all live in **settings.py**, and fall into two categories
+### 1. Main Message Topic Strings
 
-|         | String              | Notes                                     |
-| ------- | ------------------- | ----------------------------------------- |
-| Power   | 'power' or 'energy' | Triggers handle_energy(), around line 55  |
-| Network | "router_current"    | Triggers handle_network(), around line 50 |
-| DNS     | "tdns_"             | Triggers handle_dns(), around line 50     |
-### Individual File References
+These are lists of strings, if any of the words appear in the message topic, the relevant handler is called:
+
+| List          | Defaults          | Notes                      |
+| ------------- | ----------------- | -------------------------- |
+| topic_power   | 'power', 'energy' | Triggers handle_energy()   |
+| topic_network | 'router_current'  | Triggers handle_network(), |
+| topic_dns     | 'tdns'            | Triggers handle_dns(),     |
+### 2. Individual Handler Strings
+
+Sometimes, the topic/data will trigger a handler, but we still need to use more information to classify it further.
+
+E.g "router_current_upload" will trigger handle_network(), the "upload" will be used to mark it as the upload data.
+
+Again, in settings.py, the relevant entries are:
 ### Power String/References
 
-| File             | Reference Line                                               | Notes      |
-| ---------------- | ------------------------------------------------------------ | ---------- |
-| display_power.py | if "current_demand" in string_topic                          | ~ Line 160 |
-|                  | Any other message is treated as an individual device or plug |            |
-
-### Network String/References
-
-| File               | Reference Line                 | Notes     |
-| ------------------ | ------------------------------ | --------- |
-| display_network.py | if "download" in string_topic: | ~ Line 90 |
-|                    | if "upload" in string_topic:   | ~Line 95  |
-
-### DNS String/References
-
-| Variable                       | Notes                                                                                       | Example Entry       |
-| ------------------------------ | ------------------------------------------------------------------------------------------- | ------------------- |
-| settings.dns_colour_map.keys() | Each key is checked to see if it exists in the string topic, e.g. "no_error", "blocked" etc | 'blocked' : 'mango' |
-| settings.dot_maxes             | MUST contain a value for your **colour** (not the string)                                   | 'mango': 5,         |
-| settings.dot_mins              | Same as for maxes                                                                           | 'mango': 0,         |
-
+|         | Variable             | Default          | Notes |
+| ------- | -------------------- | ---------------- | ----- |
+| Power   | topic_power_total    | "current_demand" |       |
+| Network | topic_network_upload | "upload"         |       |
+|         | topic_network_upload | "download"       |       |
 
 ## Changing the Colours
 
