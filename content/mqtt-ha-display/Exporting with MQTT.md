@@ -42,7 +42,7 @@ That tells Home Assistant that we're going to make an "mqtt_statestream.yaml" fi
 
 ## Configuring the Exports
 
-Next, great the mqtt_statestream.yaml file and you'll build a config that looks something like this as we go:
+Next, create the mqtt_statestream.yaml file and you'll build a config that looks something like this as we go:
 
 ![[Pasted image 20250813071736.png]]
 
